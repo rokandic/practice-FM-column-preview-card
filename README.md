@@ -17,7 +17,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- [Live Site]()
+- [Live Site](https://rokandic.github.io/practice-FM-column-preview-card/)
 
 ### Built with
 
